@@ -14,7 +14,7 @@ vSphere Client 버전 6.7.0.42000
 - NIC: 16
 
 | Machine | SSD Disk (Free / Total) |
-|---------|------|----|
+|---------|-------------------------|
 | suy-mcp-poc-03.suy.mcp.io | suy-mcp-poc-03-data (11.65 TB / 12.23 TB) |
 | suy-mcp-poc-04.suy.mcp.io | suy-mcp-poc-04-data (12.22 TB / 12.23 TB) |
 | suy-mcp-poc-05.suy.mcp.io | suy-mcp-poc-05-data (12.22 TB / 12.23 TB) |
